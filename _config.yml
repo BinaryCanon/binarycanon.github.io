@@ -100,7 +100,7 @@ comments:
   # Giscus options › https://giscus.app
   giscus:
     repo: "spacescorpion/spacescorpion.github.io"
-    repo_id: "R_kgDOHBVNXA"
+    repo_id: "R_kgDOHB-guw"
     category: "Announcements"
     category_id: "DIC_kwDOHBVNXM4COLdY"
     mapping:          # optional, default to 'pathname'
