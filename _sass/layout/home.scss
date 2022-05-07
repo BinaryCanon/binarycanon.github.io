@@ -1,6 +1,36 @@
 /*
   Style for Homepage
 */
+/* enable post preview images */
+@media only screen and (min-width: 551px) {
+  .post-img-cnt{
+    width:30%;
+    float:left;
+    padding-right: 15px;
+    padding-top: 5px;
+  }
+
+  .post-img{
+    width:30%;
+    float:left;
+    padding-right: 15px;
+    padding-top: 5px;
+  }
+}
+@media only screen and (max-width: 550px) {
+  .post-img-cnt{
+    width:100%;
+    padding-right: 15px;
+    padding-top: 5;
+  }
+
+  .post-img{
+    width:100%;
+    padding-right: 15px;
+    padding-top: 5px;
+  }
+}
+/* end post preview images */
 
 .pagination {
   color: var(--btn-patinator-text-color);
@@ -59,7 +89,7 @@
 
   .post-preview {
     padding-top: 1.5rem;
-    padding-bottom: 1rem;
+    padding-bottom: 2.5rem;
     border-bottom: 1px solid var(--main-border-color);
 
     a:hover {

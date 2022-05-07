@@ -21,31 +21,31 @@ timezone: Asia/Shanghai
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy                          # the main title
+title: Binary Canon                          # the main title
 
-tagline: A text-focused Jekyll theme   # it will display as the sub-title
+tagline: Godot, Serious Games & Game Design   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
+  How far can we push games into the pedagogical realm while keeping players immersed?
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: ''
 
 github:
-  username: github_username             # change to your github username
+  username: BinaryCanon             # change to your github username
 
 twitter:
-  username: twitter_username            # change to your twitter username
+  username: BinaryCanon            # change to your twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@doamin.com             # change to your email address
+  name: Binary Canon
+  email: binary.canon@pm.me             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username      # change to your twitter homepage
-    - https://github.com/username       # change to your github homepage
+    # - https://twitter.com/username      # change to your twitter homepage
+    - https://github.com/spacescorpion       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -99,10 +99,10 @@ comments:
     issue_term:   # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
-    repo: "spacescorpion/spacescorpion.github.io"
+    repo: "binarycanon/binarycanon.github.io"
     repo_id: "R_kgDOHB-guw"
     category: "Announcements"
-    category_id: "DIC_kwDOHBVNXM4COLdY"
+    category_id: "DIC_kwDOHB-gu84COLgq"
     mapping:          # optional, default to 'pathname'
     input_position:   # optional, default to 'bottom'
     lang:             # optional, default to the value of `site.lang`

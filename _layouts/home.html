@@ -49,14 +49,15 @@ layout: page
     <h1>
       <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
     </h1>
-
+    <img src="{{post.image.path}}" alt="{{post.title}} image" class="post-img">
     <div class="post-content">
+      
       <p>
         {% include no-linenos.html content=post.content %}
         {{ content | markdownify | strip_html | truncate: 200 | escape }}
       </p>
     </div>
-
+    
     <div class="post-meta text-muted d-flex">
 
       <div class="mr-auto">
