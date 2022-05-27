@@ -1,6 +1,6 @@
 ---
 title: Storing Data Efficiently using Test-Driven-Development in Godot
-date: 2022-06-11 00:00:00 +0900
+date: 2022-05-11 00:00:00 +0900
 categories: [Programming]
 tags: [data structures]     # TAG names should always be lowercase
 pin: true
@@ -104,9 +104,9 @@ class_name Countries_DB
 func _init(json_path="", json_strings_to_var=[]).(json_path, json_strings_to_var):
 	pass
 ```
-I will add dedicated functions that are not necessarily related to <b>JSON_DB</b> in the future.
 
-
+> The syntax for _init is derived from <a href="https://docs.godotengine.org/en/stable/tutorials/scripting/gdscript/gdscript_basics.html#doc-gdscript-basics-class-name" target="_blank">inner classes</a> in Godot.
+{: .prompt-info } 
 ---
 <h2>The JSON File (countries.json)</h2>
 ```json
