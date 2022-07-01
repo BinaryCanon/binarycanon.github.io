@@ -1,7 +1,7 @@
 ---
 title: List of +15 Serious Games. Learn New Skills in Less Time with Serious Games
 date: 2022-05-07 00:00:00 +0900
-categories: [General, Game Design]
+categories: [General]
 tags: [serious games]     # TAG names should always be lowercase
 pin: true
 image:
