@@ -43,7 +43,7 @@ func _ready():
 	_hidden_color_map_.lock()
 ```
 
-Here are my maps, currently only Brazil has a color (green):
+Here are the maps, currently only Brazil has a color (green):
 
 ![Visible map](/assets/img/posts/20220521/world-map-blank.png)
 _A visible map which will be shown to the player_
@@ -155,5 +155,3 @@ func mouse_motion_country_handler(country_color_code):
 
 > If you get a side-effect of non-consistent layers' locations when moving the camera, make sure you only translate the parent node - any child's translations should set to 0.
 {: .prompt-tip }
-
-Brb.

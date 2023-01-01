@@ -9,8 +9,8 @@ image:
 ---
 
 # Intro
-Games are multidisciplinary. I had no idea to what extent.
-In the last couple of weeks, I've been exploring Game Balance.
+Games are complex. How complex can they be? Can they simulate complex systems? Are some equations with variables enough? Enough for what?
+In the last couple of weeks, I've been exploring Game Balance. Specifically equations.
 
 ---
 # Balancing Economy Variables
@@ -103,4 +103,5 @@ Function generator: <a href="https://cubic-bezier.com/" target="_blank">cubic-be
 
 
 The best designers stay in the lowest possible fidelity as much as possible. -Jamal <br />
-Brb.
+<u>Update:</u> I don't like it for simulating anything related something bing and complicated as economy. However, it might be enough for some games.
+<br />

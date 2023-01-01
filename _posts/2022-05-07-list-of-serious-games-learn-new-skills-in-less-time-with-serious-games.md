@@ -16,7 +16,7 @@ The main challenge is creating a strong immersion while the player learns new sk
 > Serious games should not be confused with Gamification, which takes existing activities and intensifies learning satisfaction. There is no immersion.
 {: .prompt-info }
 
-How far can we push games into the pedagogical realm while keeping players immersed?
+How far can we push games into the pedagogical realm while keeping players immersed? What's even <i>immersion</i>?
 
 ---
 
@@ -185,5 +185,3 @@ _Hypnospace Outlaw_
 Experience the early days of web 1.0 with an alternative reality that builds its own unique identity. Not exactly a serious game by the book.
 
 ---
-
-Brb.
