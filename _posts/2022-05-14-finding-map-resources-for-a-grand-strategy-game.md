@@ -48,5 +48,3 @@ _Combination of wireframe (Countries SVG), normalmap and texture_
 
 >Perhaps using Inkscape is faster since, eventually, I'll need to edit each country separately.
 {: .prompt-tip }
-
-Brb.

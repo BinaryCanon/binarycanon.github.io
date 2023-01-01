@@ -100,6 +100,3 @@ Iteration is the key. I just created a simple layout to try and feel the game. N
 > <u>Resources:</u> <a href="https://www.gameuidatabase.com/" target="_blank">Game UI Database</a>, NNg's <a href="https://www.nngroup.com/articles/ten-usability-heuristics/" target="_blank">blog</a>, Jamal Nichols's <a href="https://www.creativelive.com/instructor/jamal-nichols" target="_blank">courses</a> 
 {: .prompt-info } 
 
-Brb.
-
-

@@ -79,5 +79,3 @@ $Sprite.material_override.set_shader_param("ColorAlbedoUniform", Color.red)
 ![ALT The flower](/assets/img/posts/20220528/country-shader-demo.gif)
 _Optimizing GIFs for web is a headache, I tried my best :/_
 <br />
-
-Brb.

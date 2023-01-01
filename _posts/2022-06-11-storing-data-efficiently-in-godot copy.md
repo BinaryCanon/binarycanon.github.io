@@ -192,6 +192,4 @@ func test_DB_second_line_nested_value():
 
 ```
 
-Brb.
-
 
